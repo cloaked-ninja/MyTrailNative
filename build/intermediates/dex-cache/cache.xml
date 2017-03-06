@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\josh.simnitt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\sfapp\TrailAndroidApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_a696c0694090d57f270294019f58acc92e7c56c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\sfapp\TrailAndroidApps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\sfapp\TrailAndroidApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fe2f9a60194c5b2df11e191050bde2ace034e4f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josh.simnitt\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\sfapp\TrailAndroidApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_ab331ed9af73cdba4c54d03fd5687bd9e7182cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josh.simnitt\.android\build-cache\4f44189135aa056c9bf7abda99be4ad156fe9f3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7ecee496793b4020ffe5052331a7efb075f5a73">
+        <dex dex="C:\sfapp\TrailAndroidApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa468303987eecf697195119416317eccf593bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\sfapp\TrailAndroidApps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aad447551d6e6113329195272e2ee1aa962d545f">
+        <dex dex="C:\sfapp\TrailAndroidApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3f3f1e7b5f9e816f21b54d339117b0e376021db3\classes.dex" />
+    </item>
+
+</items>

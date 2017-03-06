@@ -1,0 +1,7 @@
+#Mon Mar 06 09:51:14 MST 2017
+base.0=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fe2f9a60194c5b2df11e191050bde2ace034e4f0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f3f1e7b5f9e816f21b54d339117b0e376021db3\\classes.dex
+base.1=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f3f1e7b5f9e816f21b54d339117b0e376021db3
+file.0=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fe2f9a60194c5b2df11e191050bde2ace034e4f0\\classes.dex

@@ -1,0 +1,10 @@
+#Mon Mar 06 09:51:13 MST 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.6.0_ab331ed9af73cdba4c54d03fd5687bd9e7182cc9
+base.1=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fa468303987eecf697195119416317eccf593bbd
+base.0=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.2.0_a696c0694090d57f270294019f58acc92e7c56c2
+file.2=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.6.0_ab331ed9af73cdba4c54d03fd5687bd9e7182cc9\\classes.dex
+file.1=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fa468303987eecf697195119416317eccf593bbd\\classes.dex
+file.0=C\:\\sfapp\\TrailAndroidApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.2.0_a696c0694090d57f270294019f58acc92e7c56c2\\classes.dex
